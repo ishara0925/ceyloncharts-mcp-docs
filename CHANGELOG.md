@@ -10,6 +10,6 @@ researcher credits.
 - **Security:** hardened OAuth dynamic client registration — self-registered
   clients are now flagged unverified until reviewed, verification is checked
   per redirect origin rather than per client, refresh tokens now expire, and
-  registration is rate-limited. Reported through responsible disclosure; see
-  [docs/acknowledgments.md](docs/acknowledgments.md) for credit once the
-  reporter confirms how they'd like to be acknowledged.
+  registration is rate-limited. Reported by
+  [MD Rabbi Hossain](https://x.com/csrrabbi) through responsible disclosure —
+  see [docs/acknowledgments.md](docs/acknowledgments.md).

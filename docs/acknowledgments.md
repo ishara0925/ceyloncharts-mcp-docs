@@ -8,8 +8,7 @@ See [SECURITY.md](../SECURITY.md) for how to report an issue.
 
 | Date | Researcher | Summary |
 |------|------------|---------|
-
-*No public entries yet — check back soon.*
+| 2026-09-22 | [MD Rabbi Hossain](https://x.com/csrrabbi) | OAuth dynamic client registration hardening |
 
 <!--
 New entry template — add a row above this comment once the researcher has
