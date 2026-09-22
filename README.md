@@ -29,6 +29,9 @@ endpoints. It does not contain the server's source code.
 - [Rate Limits](docs/rate-limits.md) — plan tiers and limits
 - [Examples](examples/) — runnable curl, Python, and Node snippets
 - [AGENTS.md](AGENTS.md) / [SKILL.md](SKILL.md) — condensed reference for coding agents (base URLs, auth, gotchas, endpoint table)
+- [SECURITY.md](SECURITY.md) — how to report a vulnerability
+- [Changelog](CHANGELOG.md) — notable changes to the hosted service
+- [Security Acknowledgments](docs/acknowledgments.md) — researchers who've helped us, credited with permission
 
 ## Available MCP Tools
 
